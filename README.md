@@ -1,62 +1,37 @@
-# 🎯 Design Patterns in Action
+# 🎯 Design Patterns in Java  
 
-Welcome to **DesignPatterns** repo — your ultimate reference for practical, real-world examples of classic and modern design patterns, implemented with clarity and purpose 🚀.
-
----
-
-## 📚 About This Repo
-This repository is dedicated to providing **clean, simple, and well-documented examples** of popular design patterns.  
-Whether you're preparing for interviews, working on improving your software design skills, or just love writing elegant code — you’re in the right place! 💪
-
-> "**Design Patterns** don't go directly into your code, they go into your **brain** first!" 🧠
+This repository contains practical implementations of **Design Patterns in Java**, explained and demonstrated on our YouTube playlist:  
+📺 [Watch the full series here](https://www.youtube.com/playlist?list=PLkAbKySDzrEZ4MoVrNf_9p94utkhVhp9g)
 
 ---
 
-## 🏆 What's Inside?
-
-| Pattern Type    | Pattern Examples                                |
-| --------------- | ----------------------------------------------- |
-| **Creational**  | Singleton, Factory, Abstract Factory, Builder   |
-| **Structural**  | Adapter, Decorator, Facade, Proxy                |
-| **Behavioral**  | Strategy, Observer, Command, State               |
-
-Each pattern comes with:
-- ✅ Simple code example (easy to understand)
-- ✅ Clear explanation (how & when to use)
-- ✅ Pros and cons (so you know when *not* to use it)
+## 👥 Contributors
+- [Ahmed Hussein](https://github.com/ahmed2005hussen)  
+- [Yousef Hassan](https://github.com/yousefheroo028)
 
 ---
 
-## 🚀 Patterns Implemented So Far
+## 📚 Covered Design Patterns
+We’ve covered and implemented the following design patterns so far:
 
-- [x] **Strategy Pattern** — *Encapsulate algorithms and swap them at runtime*
-
-> *More patterns coming soon! Stay tuned...* 🌱
-
----
-
-## 🌟 Why Learn Design Patterns?
-
-- 🔄 Make your code **flexible** and **maintainable**
-- 🧩 Build apps using **composition over inheritance**
-- 🚀 Write code that’s ready for **scaling and change**
-- 💼 Crack **coding interviews** with solid design answers
-
----
-
-## 📚 Recommended Reading
-
-- *Head First Design Patterns* by Eric Freeman & Elisabeth Robson (Best for beginners!)
-- *Design Patterns: Elements of Reusable Object-Oriented Software* (Gang of Four)
----
-
-## 🔗 Follow & Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ahmed-elsherif-119b60337/)
+1. **Strategy Pattern** — Behavioral  
+   Allows selecting an algorithm’s behavior at runtime.  
+2. **Observer Pattern** — Behavioral  
+   Defines a one-to-many dependency so that when one object changes state, all its dependents are notified.  
+3. **Singleton Pattern** — Creational  
+   Ensures a class has only one instance and provides a global access point to it.  
+4. **Decorator Pattern** — Structural  
+   Dynamically adds new behavior to objects without modifying their code.  
+5. **Template Method Pattern** — Behavioral  
+   Defines the program skeleton of an algorithm, letting subclasses override specific steps.  
 
 ---
 
-## ⭐ Star This Repo
+## 🧠 About the Project
+This repository aims to simplify **Design Patterns** concepts using clean, well-structured Java examples.  
+Each pattern includes:
+- Clear and organized code  
+- Explanation linked to the YouTube video  
+- Practical use case demonstrating when and why to use it  
 
-If you find this repo helpful, please consider giving it a ⭐ to help others discover it too!
-
+---
